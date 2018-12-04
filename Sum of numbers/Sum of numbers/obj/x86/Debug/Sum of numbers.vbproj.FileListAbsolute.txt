@@ -1,0 +1,11 @@
+C:\Users\Anthony\source\repos\Sum of numbers\Sum of numbers\bin\x86\Debug\Sum of numbers.exe.config
+C:\Users\Anthony\source\repos\Sum of numbers\Sum of numbers\bin\x86\Debug\Sum of numbers.exe
+C:\Users\Anthony\source\repos\Sum of numbers\Sum of numbers\bin\x86\Debug\Sum of numbers.pdb
+C:\Users\Anthony\source\repos\Sum of numbers\Sum of numbers\bin\x86\Debug\Sum of numbers.xml
+C:\Users\Anthony\source\repos\Sum of numbers\Sum of numbers\obj\x86\Debug\Sum_of_numbers.Form1.resources
+C:\Users\Anthony\source\repos\Sum of numbers\Sum of numbers\obj\x86\Debug\Sum_of_numbers.Resources.resources
+C:\Users\Anthony\source\repos\Sum of numbers\Sum of numbers\obj\x86\Debug\Sum of numbers.vbproj.GenerateResource.cache
+C:\Users\Anthony\source\repos\Sum of numbers\Sum of numbers\obj\x86\Debug\Sum of numbers.vbproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Sum of numbers\Sum of numbers\obj\x86\Debug\Sum of numbers.exe
+C:\Users\Anthony\source\repos\Sum of numbers\Sum of numbers\obj\x86\Debug\Sum of numbers.xml
+C:\Users\Anthony\source\repos\Sum of numbers\Sum of numbers\obj\x86\Debug\Sum of numbers.pdb

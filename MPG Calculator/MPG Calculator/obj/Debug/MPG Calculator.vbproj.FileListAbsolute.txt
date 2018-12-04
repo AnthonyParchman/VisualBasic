@@ -1,0 +1,12 @@
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\bin\Debug\MPG Calculator.exe.config
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\bin\Debug\MPG Calculator.exe
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\bin\Debug\MPG Calculator.pdb
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\bin\Debug\MPG Calculator.xml
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\obj\Debug\MPG Calculator.vbprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\obj\Debug\MPG_Calculator.Resources.resources
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\obj\Debug\MPG Calculator.vbproj.GenerateResource.cache
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\obj\Debug\MPG Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\obj\Debug\MPG Calculator.exe
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\obj\Debug\MPG Calculator.xml
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\obj\Debug\MPG Calculator.pdb
+C:\Users\Anthony\source\repos\MPG Calculator\MPG Calculator\obj\Debug\MPG_Calculator.CalculateMPG.resources

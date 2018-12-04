@@ -1,0 +1,12 @@
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\bin\Debug\Compatorator.exe.config
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\bin\Debug\Compatorator.exe
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\bin\Debug\Compatorator.pdb
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\bin\Debug\Compatorator.xml
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\obj\Debug\Compatorator.vbprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\obj\Debug\Compatorator.Form1.resources
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\obj\Debug\Compatorator.Resources.resources
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\obj\Debug\Compatorator.vbproj.GenerateResource.cache
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\obj\Debug\Compatorator.vbproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\obj\Debug\Compatorator.exe
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\obj\Debug\Compatorator.xml
+C:\Users\Anthony\source\repos\Compatorator\Compatorator\obj\Debug\Compatorator.pdb
